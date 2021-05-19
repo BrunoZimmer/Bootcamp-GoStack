@@ -7,7 +7,7 @@ Curso de preparação de FullStack development finalizado em Agosto 2020.
 
 ## Índice de desafios
 
-- [02 - Conceitos do Node.js]
+- [02 - Conceitos do Node.js](/2-GoStack-back-node)
 - [03 - Conceitos do ReactJS]
 - [04 - Conceitos do React Native]
 - [05 - Fundamentos do Node.js]
