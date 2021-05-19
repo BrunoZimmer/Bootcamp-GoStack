@@ -1,0 +1,42 @@
+{
+    "env": {
+        "es6": true,
+        "node": true,
+        "jest": true
+    },
+    "extends": [
+        "prettier/@typescript-eslint",
+        "plugin:prettier/recommended",
+        "plugin:@typescript-eslint/recommended",
+        "airbnb-base"
+    ],
+    "parser": "@typescript-eslint/parser",
+    "parserOptions": {
+        "ecmaVersion": 2018,
+        "sourceType": "module"
+    },
+    "plugins": [
+        "prettier",
+        "@typescript-eslint"
+    ],
+    "rules": {
+      "prettier/prettier": "error",
+      "@typescript-eslint/camelcase": "off",
+      "@typescript-eslint/no-undused-vars": ["error", {
+        "argsIgnorePattern": "_"
+      }],
+      "@typescript-eslint/interface-name-prefix": ["error", {"prefixWithI": "always"}],
+      "settings": {
+        "import/resolver": {
+          "typescript": {}
+        }
+      },
+      "import/extensions": [
+        "error",
+        "ignorePackages",
+        {
+          "ts": "never"
+        }
+      ]
+    }
+}
