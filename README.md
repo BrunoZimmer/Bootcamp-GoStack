@@ -7,11 +7,11 @@ Curso de preparação de FullStack development finalizado em Agosto 2020.
 
 ## Índice de desafios
 
-- [02 - Conceitos do Node.js](https://github.com/Rocketseat/bootcamp-gostack-desafios/tree/master/desafio-conceitos-nodejs)
-- [03 - Conceitos do ReactJS](https://github.com/Rocketseat/bootcamp-gostack-desafios/tree/master/desafio-conceitos-reactjs)
-- [04 - Conceitos do React Native](https://github.com/Rocketseat/bootcamp-gostack-desafios/tree/master/desafio-conceitos-react-native)
-- [05 - Fundamentos do Node.js](https://github.com/Rocketseat/bootcamp-gostack-desafios/tree/master/desafio-fundamentos-nodejs)
-- [09 - Relacionamentos com banco de dados no Node.js](https://github.com/Rocketseat/bootcamp-gostack-desafios/tree/master/desafio-database-relations)
+- [02 - Conceitos do Node.js]
+- [03 - Conceitos do ReactJS]
+- [04 - Conceitos do React Native]
+- [05 - Fundamentos do Node.js]
+- [09 - Relacionamentos com banco de dados no Node.js]
 - [GoFinance - Trabalho em formato web com backend em node]
 - [GoRestaurant - Trabalho em formato web e mobile] *Backend do Desafio 5/9
 - [GoMarketplace - Trabalho em formato mobile] *Backend do Desafio 5/9
